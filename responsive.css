@@ -195,7 +195,7 @@
         margin: 20px 0;
         font-size: 20px;
     }
-
+   
     .home-max-width {
         background-color: rgba(0, 0, 0, .50);
         color: white;
@@ -278,9 +278,10 @@
     .home {
         margin-top: 50px;
         display: flex;
-        background-image: url("image1.png");
+        background-image: url("asad.png");
         background-position: center;
         background-size: cover;
+        background-repeat: no-repeat;
         background-size: 90vh;
     }
 
